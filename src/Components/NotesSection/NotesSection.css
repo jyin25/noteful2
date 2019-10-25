@@ -1,0 +1,5 @@
+.notes-section {
+    border: solid 1px black;
+    flex: 2;
+    padding: 8px;
+}

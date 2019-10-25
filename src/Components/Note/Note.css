@@ -1,0 +1,11 @@
+.date-delete-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.note {
+    border: solid 1px black;
+    padding: 8px;
+    margin: 8px;
+}
+
